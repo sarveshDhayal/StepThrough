@@ -47,3 +47,4 @@ export const PacketVisualizer: React.FC<PacketVisualizerProps> = ({ packets, rou
     </div>
   );
 };
+

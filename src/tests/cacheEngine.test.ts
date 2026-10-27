@@ -94,3 +94,4 @@ describe('cacheEngine', () => {
     expect(steps[3].evictedWay).toBe(1); // evicted Block 2
   });
 });
+

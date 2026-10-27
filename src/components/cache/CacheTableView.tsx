@@ -105,3 +105,4 @@ export const CacheTableView: React.FC<CacheTableViewProps> = ({
     </div>
   );
 };
+

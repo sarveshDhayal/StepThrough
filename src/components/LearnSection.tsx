@@ -71,3 +71,4 @@ export const LearnSection: React.FC<LearnSectionProps> = ({
     </section>
   );
 };
+

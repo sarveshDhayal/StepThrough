@@ -71,3 +71,4 @@ export const AddressBitsView: React.FC<AddressBitsViewProps> = ({ split }) => {
     </div>
   );
 };
+

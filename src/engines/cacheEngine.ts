@@ -267,3 +267,4 @@ export function simulateCache(addresses: number[], config: CacheConfig): CacheSt
 
   return steps;
 }
+
